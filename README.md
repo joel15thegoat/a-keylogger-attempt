@@ -35,7 +35,3 @@ A Python demo of a secure keylogger with encrypted local storage, remote control
    ```bash
    echo "MySecretToken123 START" | nc localhost 4444
    ```
-
-## Note
-
-This code is for educational purposes only. Do not use it on systems without explicit permission.
