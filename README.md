@@ -1,4 +1,4 @@
-# a-keylogger-attempt
+# a-python-keylogger-attempt
 
 A Python demo of a secure keylogger with encrypted local storage, remote control, steganography helpers, and optional AWS S3 upload support.
 
