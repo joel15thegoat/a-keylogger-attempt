@@ -35,3 +35,7 @@ A Python demo of a secure keylogger with encrypted local storage, remote control
    ```bash
    echo "MySecretToken123 START" | nc localhost 4444
    ```
+## warning
+i belive that it is illegal to use this exept on personal devices and networks so user discreation is adviced
+## licence
+this is published under the MIT licence so u can copy and edit as u wish if u get into legal trouble u dont know me or this repo
